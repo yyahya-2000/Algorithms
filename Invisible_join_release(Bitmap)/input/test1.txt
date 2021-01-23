@@ -1,0 +1,10 @@
+FactResellerSales.SalesOrderLineNumber,FactResellerSales.CarrierTrackingNumber,FactResellerSales.CustomerPONumber,FactResellerSales.OrderQuantity
+8
+DimSalesTerritory.SalesTerritoryAlternateKey = 1
+DimDate.FullDateAlternateKey <> '2005-01-07'
+FactResellerSales.OrderQuantity > 1
+FactResellerSales.OrderQuantity <= 3
+FactResellerSales.SalesOrderLineNumber > 30
+FactResellerSales.SalesOrderLineNumber < 33
+FactResellerSales.OrderQuantity = 2
+FactResellerSales.CarrierTrackingNumber = 60A2-4F08-8B

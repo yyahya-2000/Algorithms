@@ -1,0 +1,6 @@
+DimProduct.EnglishProductName,DimProduct.Color,FactResellerSales.SalesOrderNumber,DimDate.EnglishMonthName,DimDate.MonthNumberOfYear
+4
+DimDate.CalendarYear >= 1980
+DimDate.CalendarYear <= 2015
+DimDate.EnglishMonthName = 'January'
+DimProduct.Color = 'Black'

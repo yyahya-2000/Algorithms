@@ -1,0 +1,9 @@
+DimPromotion.EnglishPromotionName,DimPromotion.EnglishPromotionCategory,DimSalesTerritory.SalesTerritoryAlternateKey,DimReseller.BusinessType
+7
+DimPromotion.EnglishPromotionCategory <> 'No Discount'
+DimSalesTerritory.SalesTerritoryAlternateKey > 3
+DimReseller.YearOpened < 2000
+FactResellerSales.OrderQuantity >= 1
+FactResellerSales.OrderQuantity <= 7
+DimProduct.SafetyStockLevel <> 800
+DimSalesTerritory.SalesTerritoryAlternateKey = 4

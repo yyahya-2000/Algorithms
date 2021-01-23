@@ -1,0 +1,8 @@
+DimDate.FullDateAlternateKey,DimDate.EnglishDayNameOfWeek,FactResellerSales.CarrierTrackingNumber,DimDate.FullDateAlternateKey,DimCurrency.CurrencyAlternateKey,DimSalesTerritory.SalesTerritoryCountry
+6
+DimReseller.YearOpened >= 1990
+DimReseller.YearOpened <= 2000
+DimProduct.DaysToManufacture = 0
+DimEmployee.DepartmentName <> 'Finance'
+DimDate.EnglishDayNameOfWeek = 'Friday'
+DimSalesTerritory.SalesTerritoryCountry = 'United States'

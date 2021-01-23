@@ -1,0 +1,4 @@
+DimEmployee.FirstName,DimEmployee.LastName,DimEmployee.EmailAddress,DimEmployee.Phone,DimEmployee.Gender,DimProduct.EnglishProductName
+2
+DimEmployee.DepartmentName = 'Sales'
+DimDate.FiscalYear > 2000
