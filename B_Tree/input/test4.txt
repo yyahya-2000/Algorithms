@@ -1,0 +1,16 @@
+insert -1000 1000
+insert -999 999
+insert -888 888
+find -99
+find -888
+insert -111 111
+insert -777 777
+insert -666 666
+find -111
+find -777
+find -555
+insert -555 555
+insert -444 444
+insert -333 333
+find 222
+insert 222

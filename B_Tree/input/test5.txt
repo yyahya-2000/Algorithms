@@ -1,0 +1,329 @@
+insert 10 100
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+find 1
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+insert 15 155
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15
+find 15

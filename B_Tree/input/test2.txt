@@ -1,0 +1,18 @@
+find 0
+insert -1 339
+insert -10 367
+insert -100 32
+insert -33 340
+find -1
+find 0
+insert 4 350
+insert 5 320
+insert 12 333
+insert 4 310
+insert 4 290
+insert 12 125
+find 12
+find 5
+insert -333 33
+insert 999 9
+insert 888 8

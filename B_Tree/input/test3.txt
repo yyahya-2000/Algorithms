@@ -1,0 +1,29 @@
+find 9
+find 3
+find -10
+find 5
+insert 9 55
+insert 4 00001
+insert 345 345
+insert 2 3455
+insert 21 34555
+insert 1234 345555
+insert 2 3455555
+find 2
+find 1234
+find 4
+insert 9 0
+insert 3 7
+insert 15 -15
+insert 9 55
+insert 4 00001
+insert 345 345
+insert 2 3455
+insert 21 34555
+insert 1234 345555
+insert 2 3455555
+find 0
+find 1
+find 2
+insert 9 0
+insert 3 7
